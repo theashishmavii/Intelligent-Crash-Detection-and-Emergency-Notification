@@ -40,3 +40,15 @@ This project is designed to **detect vehicle accidents in real time** using **AI
 
 ## 📂 Folder Structure  
 
+📦 **Intelligent-Crash-Detection**  
+├── 📂 **datasets/**              # Training dataset  
+├── 📂 **model/**                 # Trained AI models  
+├── 📂 **scripts/**                # Preprocessing, training & alert scripts  
+│   ├── 📜 **train_model.py**        # Training script  
+│   ├── 📜 **test_model.py**         # Model testing and evaluation  
+│   ├── 📜 **Accident_detection.py**  # Real-time accident detection & alert system  
+├── 📜 **requirements.txt**        # Python dependencies  
+├── 📜 **README.md**               # Project documentation  
+└── 📜 **report.pdf**               # Internship report  
+
+
